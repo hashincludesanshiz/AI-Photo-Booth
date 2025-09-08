@@ -1,0 +1,5 @@
+{
+  "name": "Event Photo Compositor",
+  "description": "An application to seamlessly merge a guest's photo into a base couple's photo using AI, creating a professional, on-stage portrait.",
+  "requestFramePermissions": []
+}
